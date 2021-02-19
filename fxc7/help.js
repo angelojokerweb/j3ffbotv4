@@ -65,16 +65,16 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 │➻ *${prefix}nulis nama/kelas/text*
 │➻ *${prefix}nulis Fxc7/Bot*
 │
-│➻ *${prefix}tahta BRUXINHO*
-│➻ *${prefix}croman BRUXINHL dan BOT*
-│➻ *${prefix}clove BRUXINHO*
-│➻ *${prefix}cparty BRUXINHO*
-│➻ *${prefix}csky BRUXINHO*
+│➻ *${prefix}tahta ÂNGELO*
+│➻ *${prefix}croman ÂNGELO dan BOT*
+│➻ *${prefix}clove ÂNGELO*
+│➻ *${prefix}cparty ÂNGELO*
+│➻ *${prefix}csky ÂNGELO*
 │➻ *${prefix}tts id Haii*
-│➻ *${prefix}ttp BRUXINHO [ERRO]*
-│➻ *${prefix}cballon BRUXINHO*
-│➻ *${prefix}cpaper BRUXINHO*
-│➻ *${prefix}slide BRUXINHO BOT WA*
+│➻ *${prefix}ttp ÂNGELO [ERRO]*
+│➻ *${prefix}cballon ÂNGELO*
+│➻ *${prefix}cpaper ÂNGELO*
+│➻ *${prefix}slide ÂNGELO BOT WA*
 │
 │➻ *${prefix}stiker*
 │➻ *${prefix}gifstiker*
